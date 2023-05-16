@@ -22,5 +22,5 @@ https://github.com/MRzzm/DINet
 
 ***
 
-### Project Multi-Music-Transformer made by Lu Rui from Langzizhixin Technology company in Chengdu, China.
+### Project  made by Lu Rui from Langzizhixin Technology company in Chengdu, China.
 ###  Code 2023
