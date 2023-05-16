@@ -1,5 +1,4 @@
 # DINet-Colab
-# Wav2Lip-CodeFormer
 This is a DINet Colab 
 
 ***
